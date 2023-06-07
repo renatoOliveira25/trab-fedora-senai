@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family= Rowdies :wght@300 & display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #b1b1b1;
+    align-items: center;
+    text-align: center;
+}
+
+nav{
+    width: 98.7vw;
+    height: 3.5rem;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #252525;
+    font-size: 20px;
+}
+
+.ati{
+    background-color: #252525;
+font-family: 'Poiret One', cursive;
+    color:white;
+    text-decoration-line: underline;
+    text-decoration-color:  #252525;
+}
+
+h1{
+    font-family: 'Poiret One', cursive;
+}
+
+img{
+    height: 370px;
+}
+
+.mae1{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.espaco1{
+    height: 30px;
+}
+
+.espaco2{
+    height: 15px;
+}
+
+.galeriaf{
+    height: 250px;
+}
+
+.fotosmae{
+    justify-content: space-around;
+}
+
+
+
+

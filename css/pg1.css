@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family= Rowdies :wght@300 & display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #b1b1b1;
+    align-items: center;
+}
+
+nav {
+    width: 98.7vw;
+    height: 3.5rem;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #252525;
+    font-size: 20px;
+}
+
+.ati {
+    background-color: #252525;
+    font-family: 'Poiret One', cursive;
+    color: white;
+    text-decoration-line: underline;
+    text-decoration-color: #252525;
+}
+
+header {
+    font-family: 'Poiret One', cursive;
+}
+
+.origem {
+    border-style: double;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.mae1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.criador {
+    width: 500px;
+    border-style: double;
+}
+
+.espaco {
+    height: 20px;
+}
+
+.problemas {
+    border-style: double;
+    text-align: justify;
+    width: 500px;
+}
+
+.curiosidades {
+    width: 500px;
+    border-style: double;
+}
+
+.mae2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.espaco2 {
+    height: 20px;
+}
+
+.espaco1 {
+    height: 50px;
+}
+
+h2 {
+    font-family: 'Poiret One', cursive;
+}
+
+p{
+    font-size: 16px;
+}
